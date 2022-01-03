@@ -15,9 +15,9 @@
   
       // === logo change
       if (ud_header.classList.contains("sticky")) {
-        logo.src = "/images/logo/logo-blue-text.png";
+        logo.src = "/public/main-website/images/logo/logo-nobk.png";
       } else {
-        logo.src = "/images/logo/logo-no-bk.png";
+        logo.src = "/public/main-website/images/logo/logo-nobk.png";
       }
   
       // show or hide the back-to-top button

@@ -4,7 +4,7 @@
   --font: "Inter", sans-serif;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --primary-color: #007aff;
   --white: #ffffff;
 }
 
@@ -1281,4 +1281,16 @@ p {
   font-size: 38px;
   font-weight: 600;
 }
+
+.fixed-header-scroll #logo-container a {
+  background-image: url("/public/main-website/images/logo/logo-no-bk.png") !important;
+  background-size:cover;
+  width:50px;
+  height:50px;
+}
+.fixed-header-scroll #logo-container img{
+ display:none;
+}
+
+  
 /*# sourceMappingURL=ud-styles.css.map */
