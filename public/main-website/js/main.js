@@ -17,7 +17,7 @@
       if (ud_header.classList.contains("sticky")) {
         logo.src = "/public/main-website/images/logo/logo-nobk.png";
       } else {
-        logo.src = "/public/main-website/images/logo/logo-nobk.png";
+        logo.src = "/public/main-website/images/logo/logo-withbk.png";
       }
   
       // show or hide the back-to-top button
